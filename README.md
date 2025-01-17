@@ -64,20 +64,5 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
 />    
- 
-
-<br/>
-<br/>
-
-### Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=amandamott4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 </p>
     
